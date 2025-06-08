@@ -1,0 +1,52 @@
+[
+  {
+    "P1": "Si", "P2": "Si", "P3": "No", "P4": "No", "P5": "Si", "P6": "No", "P7": "Si", "P8": "Si", "P9": "Si", "P10": "No",
+    "P11": "Si", "P12": "No", "P13": "Si", "P14": "No", "P15": "Si", "P16": "No", "P17": "Si", "P18": "No", "P19": "Si", "P20": "Si",
+    "Personality": "Introvertido"
+  },
+  {
+    "P1": "No", "P2": "No", "P3": "Si", "P4": "Si", "P5": "No", "P6": "Si", "P7": "No", "P8": "No", "P9": "No", "P10": "Si",
+    "P11": "No", "P12": "Si", "P13": "No", "P14": "Si", "P15": "No", "P16": "Si", "P17": "No", "P18": "Si", "P19": "No", "P20": "No",
+    "Personality": "Extrovertido"
+  },
+  {
+    "P1": "Si", "P2": "No", "P3": "No", "P4": "No", "P5": "Si", "P6": "Si", "P7": "No", "P8": "Si", "P9": "No", "P10": "Si",
+    "P11": "Si", "P12": "Si", "P13": "No", "P14": "No", "P15": "Si", "P16": "Si", "P17": "Si", "P18": "No", "P19": "No", "P20": "Si",
+    "Personality": "Introvertido"
+  },
+  {
+    "P1": "No", "P2": "Si", "P3": "Si", "P4": "Si", "P5": "No", "P6": "No", "P7": "Si", "P8": "No", "P9": "Si", "P10": "No",
+    "P11": "No", "P12": "No", "P13": "Si", "P14": "Si", "P15": "No", "P16": "No", "P17": "No", "P18": "No", "P19": "Si", "P20": "No",
+    "Personality": "Extrovertido"
+  },
+  {
+    "P1": "Si", "P2": "Si", "P3": "Si", "P4": "No", "P5": "No", "P6": "No", "P7": "No", "P8": "Si", "P9": "Si", "P10": "No",
+    "P11": "Si", "P12": "Si", "P13": "Si", "P14": "No", "P15": "No", "P16": "Si", "P17": "Si", "P18": "No", "P19": "No", "P20": "Si",
+    "Personality": "Introvertido"
+  },
+  {
+    "P1": "No", "P2": "No", "P3": "No", "P4": "Si", "P5": "Si", "P6": "Si", "P7": "Si", "P8": "Si", "P9": "No", "P10": "No",
+    "P11": "Si", "P12": "No", "P13": "Si", "P14": "Si", "P15": "Si", "P16": "No", "P17": "No", "P18": "Si", "P19": "Si", "P20": "Si",
+    "Personality": "Extrovertido"
+  },
+  {
+    "P1": "Si", "P2": "No", "P3": "Si", "P4": "No", "P5": "No", "P6": "Si", "P7": "No", "P8": "Si", "P9": "Si", "P10": "No",
+    "P11": "No", "P12": "Si", "P13": "Si", "P14": "No", "P15": "No", "P16": "No", "P17": "Si", "P18": "Si", "P19": "No", "P20": "Si",
+    "Personality": "Introvertido"
+  },
+  {
+    "P1": "No", "P2": "Si", "P3": "No", "P4": "Si", "P5": "Si", "P6": "No", "P7": "Si", "P8": "No", "P9": "No", "P10": "Si",
+    "P11": "Si", "P12": "No", "P13": "No", "P14": "Si", "P15": "No", "P16": "Si", "P17": "No", "P18": "No", "P19": "Si", "P20": "No",
+    "Personality": "Extrovertido"
+  },
+  {
+    "P1": "Si", "P2": "Si", "P3": "Si", "P4": "Si", "P5": "Si", "P6": "Si", "P7": "Si", "P8": "Si", "P9": "Si", "P10": "Si",
+    "P11": "Si", "P12": "Si", "P13": "Si", "P14": "Si", "P15": "Si", "P16": "Si", "P17": "Si", "P18": "Si", "P19": "Si", "P20": "Si",
+    "Personality": "Introvertido"
+  },
+  {
+    "P1": "No", "P2": "No", "P3": "No", "P4": "No", "P5": "No", "P6": "No", "P7": "No", "P8": "No", "P9": "No", "P10": "No",
+    "P11": "No", "P12": "No", "P13": "No", "P14": "No", "P15": "No", "P16": "No", "P17": "No", "P18": "No", "P19": "No", "P20": "No",
+    "Personality": "Extrovertido"
+  }
+]

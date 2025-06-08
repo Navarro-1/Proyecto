@@ -1,0 +1,82 @@
+[
+  {
+    "pregunta": "¿Te gusta pasar tiempo a solas?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Tienes miedo escénico al hablar en público?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Asistes frecuentemente a eventos sociales?",
+    "tipo": "extrovertido"
+  },
+  {
+    "pregunta": "¿Te agrada salir constantemente?",
+    "tipo": "extrovertido"
+  },
+  {
+    "pregunta": "¿Te sientes agotado después de socializar?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Tienes un círculo amplio de amigos?",
+    "tipo": "extrovertido"
+  },
+  {
+    "pregunta": "¿Publicas con frecuencia en redes sociales?",
+    "tipo": "extrovertido"
+  },
+  {
+    "pregunta": "¿Prefieres leer un libro en lugar de ir a una fiesta?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Eres callado en grupos grandes?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Te cuesta iniciar conversaciones?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Evitas ser el centro de atención?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Prefieres mensajes de texto a llamadas?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Disfrutas de los fines de semana en casa?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Te cuesta trabajar en equipo?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Piensas antes de hablar en reuniones?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Evitas confrontaciones verbales?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Tienes uno o dos amigos cercanos en lugar de muchos conocidos?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Sueles observar más que participar en conversaciones?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Sientes que necesitas recargarte después de socializar?",
+    "tipo": "introvertido"
+  },
+  {
+    "pregunta": "¿Prefieres actividades individuales que grupales?",
+    "tipo": "introvertido"
+  }
+]
